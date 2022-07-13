@@ -9,12 +9,12 @@ int main()
 system("CLS");
 cout<<"                   |___|   "<<endl;
 cout<<"                   (- -)"<<endl;
-cout<<"                    \ /"<<endl;
+cout<<"                   \\ /"<<endl;
 cout<<"          | |  d----------b"<<endl;
-cout<<"           \   / |       | \ "<<endl;
-cout<<"            \ /  |       |  \ "<<endl;
-cout<<"             V   |       |   |"<<endl;
-cout<<"                 |       |   |"<<endl;
+cout<<"           \\   / |       | \\ "<<endl;
+cout<<"            \\ /  |       |  \\ "<<endl;
+cout<<"             V    |       |   |"<<endl;
+cout<<"                  |       |   |"<<endl;
 cout<<"                 ---------  | |"<<endl;
 cout<<"                 |  | |  |"<<endl;
 cout<<"                 |  | |  |"<<endl;
